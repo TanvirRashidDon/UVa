@@ -123,3 +123,7 @@ easiest 100(probably).
   <li>12626</li>
   <li>12646</li>
 </ol>
+
+### UVa id:
+
+[rduoent](https://uhunt.onlinejudge.org/id/395690)
