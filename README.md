@@ -126,4 +126,10 @@ easiest 100(probably).
 
 ### UVa id:
 
-[rduoent](https://uhunt.onlinejudge.org/id/395690)
+<a href="https://uhunt.onlinejudge.org/id/395690" target="_blank">rduoent</a> 
+
+
+
+
+
+
